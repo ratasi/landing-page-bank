@@ -3,7 +3,7 @@ import { RiFacebookCircleFill, RiInstagramLine, RiLinkedinBoxFill, RiTwitterXFil
 export const footerData = [
   {
     id: 1,
-    title: "Useful Links",
+    title: "Links útiles",
     links: [
       {
         id: 1,
